@@ -8,7 +8,7 @@ Python Dependencies
 
 Other:
 
-- Twitter application keys. To generate your own follow instructions posted on my blog (link to go here)
+- Twitter application keys. To generate your own follow the instructions on twitter
 
 - Open Weather Maps Application key
 
